@@ -1,0 +1,26 @@
+Smart-Vision-System/
+│
+├── data/
+│   ├── images/
+│   └── videos/
+│
+├── models/
+│   ├── yolov3.weights
+│   ├── yolov3.cfg
+│   └── coco.names
+│
+├── src/
+│   ├── image_processing.py
+│   ├── transformations.py
+│   ├── morphology.py
+│   ├── edge_detection.py
+│   ├── segmentation.py
+│   ├── object_detection.py
+│   ├── tracking.py
+│   └── main.py
+│
+├── outputs/
+│
+├── README.md
+├── requirements.txt
+└── report.pdf
